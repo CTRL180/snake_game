@@ -1,5 +1,5 @@
 from turtle import Turtle
-
+from turtle import RawTurtle
 
 class Snake:
     def __init__(self, init_size):
