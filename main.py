@@ -10,7 +10,6 @@ y = 6
 screen_width = 600
 screen_height = 600
 
-
 screen = Screen()
 screen.setup(width=screen_width, height=screen_height)
 screen.bgcolor("black")
