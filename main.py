@@ -4,6 +4,8 @@ from snake import Snake
 from food import Food
 from scoreboard import ScoreBoard
 
+x = 5
+
 screen_width = 600
 screen_height = 600
 
